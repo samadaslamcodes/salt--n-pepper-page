@@ -44,6 +44,66 @@ a {
     font-size: 1.7rem;
     background-color: red;
 }
+
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 50px;
+  }
+  .heading-page-1{
+    margin-top: 20px;
+    font-size: 2.4rem;
+
+  }
+  .arrow-but{
+
+    background-color: white;
+    color: red;
+    padding: 6px;
+    margin: 6px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+  
+  .page-1-image {
+    width: 500px;
+    height: 300px;
+    border-radius: 6px;
+    margin-left: 36px;
+  }
+  
+  .text-box-page-1 {
+    width: 343px;
+    font-size: 1.4rem;
+
+  }
+  
+  .page-1-image-2 {
+    width: 500px;
+  }
+  
+  .page-2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+  }
+  
+.location-boxes-page-2 {
+    width: 340px;
+    height: 430px;
+    background-color: rgba(31, 31, 31, 0.547);
+    border-radius: 15px;
+    padding: 12px;
+  }
+  
+  .location-images {
+    width: 315px;
+    height: 290px;
+    border-radius: 10px;
+  }
+
 .logo {
     margin-left: 10rem;
     margin-right: 30rem;
@@ -309,9 +369,33 @@ footer {
     cursor: pointer;
 }
 .social-icon-circle {
-    width: 35px;
-    height: 35px;
+    width: 45px;
+    height: 45px;
     background-color: red;
     border-radius: 100%;
     cursor: pointer;
+}
+
+.fb-logo{
+    text-align: center;
+    margin-left: 4px;
+    margin-top: 5px;
+
+    
+}
+.ig-logo{
+    text-align: center;
+    margin-left: 6px;
+    margin-top: 5px;
+  
+}
+.twit-logo{
+    text-align: center;
+    margin-left: 6px;
+    margin-top: 4px;
+}
+.picture-1{
+    margin-bottom: 320px;
+    display: flex;
+    justify-content: center;
 }

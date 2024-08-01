@@ -55,3 +55,188 @@
     left: 38%;
     text-align: center;
 }
+.form-pg-1{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 25px;
+
+}
+
+.arr-1{
+
+    background-color: white;
+    color: red;
+    padding: 4px;
+    margin: 3px;
+    border-radius: 6px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.txt-1{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 3rem;
+}
+.txtpg{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 25px;
+
+}
+.txt-2{
+    font-size: 2rem;
+}
+
+.fa-solid{
+    font-weight: 900;
+    margin-top: 30px;
+}
+.fa-solid{
+    font-weight: 900;
+    margin-top: 30px;
+}
+.txt-3{
+    font-size: 2rem;
+}
+.fa-solid{
+    font-weight: 900;
+    margin-top: 30px;
+}
+.txt-4{
+    font-size: 2rem;
+}
+.fa-solid{
+    font-weight: 900;
+    margin-top: 30px;
+}
+.txt-5{
+    font-size: 2rem;
+
+}
+.form-pg-2{
+    font-size: 2rem;
+text-align: center;
+}
+input {
+    width: 200px;
+    height: 50px;
+    margin-bottom: 38px;
+}
+.text-red{
+    color: red;
+
+}
+.button{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    padding: 15px;
+
+}
+.pg-3{
+    text-align: center;
+    margin-left: 40px;
+}
+.fd-1{
+    font-size: 3rem;
+    margin-top: 50px;
+}
+.fd-2{
+    font-size: 1.8rem;
+    margin-left: 30px;
+}
+.fd-3{
+    margin-top: 36px;
+    font-size: 3rem;
+}
+.fd-4{
+    font-size: 3rem;
+    margin-top: 30px;
+}
+.para-1{
+    font-size: 2rem;
+    color: grey;
+    margin-top: 20px;
+}
+
+.pg-4{
+    font-size: 2rem;
+    text-align: center;
+}
+
+footer {
+    margin-top: 100px;
+    height: 450px;
+    background-color: rgb(26, 26, 26);
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.footer-first-box {
+    width: 282px;
+    font-size: 1.3rem;
+}
+
+.footer-logo{
+    /* margin-left: 10rem; */
+    margin-right: 90rem;
+    height: 8rem;
+    width: auto;
+    
+    
+}
+
+
+.footer-links {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 12px;
+    
+    color: azure;
+}
+.headings {
+    font-weight: 1000;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.footer-second-box>ul>li {
+    margin-bottom: 13px;
+    margin-top: 13px;
+}
+.social-icon-circle {
+    width: 45px;
+    height: 45px;
+   background-color: red;
+    border-radius: 100%;
+    cursor: pointer;
+  
+}
+.fb-logo{
+    text-align: center;
+    margin-left: 4px;
+    margin-top: 5px;
+
+    
+}
+.ig-logo{
+    text-align: center;
+    margin-left: 6px;
+    margin-top: 5px;
+  
+}
+.twit-logo{
+    text-align: center;
+    margin-left: 6px;
+    margin-top: 4px;
+}
+
+
+
